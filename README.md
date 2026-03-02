@@ -1,6 +1,6 @@
 # End-to-End ML Lifecycle Project
 
-An end-to-end ML pipeline project built for learning, using student data to predict math scores and serving predictions via a Flask web app.
+An end-to-end ML pipeline project built for learninng, using student data to predict math scores and serving predictions via a Flask web app.
 
 ## What’s Included
 - Data ingestion from `notebooks/data/stud.csv`
